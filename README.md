@@ -1,5 +1,3 @@
-# ASPIRANTE ---  POO EM PYTHON --- #
-
-SEJA BEM VINDO
-FIQUE À VONTADE
+mercado de capitais
+Precificação de ativos
 
